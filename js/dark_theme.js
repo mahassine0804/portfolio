@@ -2,8 +2,7 @@ const icon = document.getElementById('icon')
 
 let logo = document.getElementById('logo');
 
-let darkImageURL = "img/logo/1.png";
-let lightImageURL = "img/logo/2.png";
+
 
 
 
